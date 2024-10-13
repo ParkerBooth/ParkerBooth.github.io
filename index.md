@@ -132,7 +132,7 @@ Aug 2021 - Dec 2023
 ---
 
 ## Contacts
-- LinkedIn: [@ParkerBooth](https://www.linkedin.com/in/parker-booth-26b81b237/)
+- [LinkedIn](https://www.linkedin.com/in/parker-booth-26b81b237/)
 - Email: parkerbooth7@gmail.com
 - Phone: (435) 776-6640
 
