@@ -1,4 +1,4 @@
-## Sports Science/Analytics Projects
+## [Sports Science/Analytics Projects](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects) 
 
 ---
 ### [Volleyball Project](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/Volleyball%20Project)
