@@ -1,27 +1,6 @@
 ## Sports Science/Analytics Projects
 
 ---
-# Parker Booth - Sports Analyst Portfolio
-## About
-Hello, I am Parker Booth! I have an analytical background in Quantitative Analysis, Business Analytics, and Econometrics. Currently, I am studying in the Master of Statistics program at the University of Utah, with plans to graduate in the Spring of 2025. I am passionate about using my acquired data analysis skills in the sports industry to help athletes reach their highest potential.
-
-Throughout my studies, I have honed my analytical skills using economic data through various projects with federal economic data. My primary tools for these projects were R programming and Stata. 
-
-I also have significant experience in a sports setting as a Sports Science Intern in the Applied Health & Performance Science department at the University of Utah. This opportunity has given me experience with data analysis in a sports setting using R programming and Power BI to analyze athlete data to improve performance.
-
-[My Resume](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Parker%20Booth%20Resume.pdf) 
-
-This repository showcases my data analysis skills and relevant Data Analysis / Sports Science projects. 
-
-## Table of Contents
-- [About](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/README.md#about)
-- [Projects](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/README.md#projects)
-- [Education](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/README.md#education)
-- [Contacts](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/README.md#contacts)
-
-## Projects
-
-
 ### [Volleyball Project](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/Volleyball%20Project)
 **Duration**: 4 months  
 **Program**: R
