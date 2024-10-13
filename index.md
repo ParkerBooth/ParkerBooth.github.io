@@ -9,15 +9,15 @@
 
 Two types of Bayesian models were run in this analysis using STAN: General Linear Regression Models and Logistic Models. These models were run using the stan package in R, allowing for a deep Bayesian analysis of how movements influenced match outcomes and statistics. This project deepened my experience with advanced statistical modeling and reinforced the value of data analysis in optimizing athlete performance.
 
-<img src="/images/kill_diff_Logistic_curve.png"/> 
-<img src="/images/predictive values.png"/>
-
 - **[Presentation](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Presentation.pdf)**
 - **[Project Paper](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Project%20Paper.pdf)**
 - **[Data Manipulation Code](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Portfolio%20File.Rmd)**
 - **[Stan Code](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Stan.R)**
 
+<img src="/images/kill_diff_Logistic_curve.png"/> 
+<img src="/images/predictive values.png"/>
 
+---
 
 ### [ForceDecks API](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/ForceDecks%20API)
 **Duration**: 3 months  
@@ -30,7 +30,7 @@ I worked with the Vald API documentation and resource files. A substantial porti
 - **[Main](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/ForceDecks%20API/FD%20main.R)**
 - **[Utils](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/ForceDecks%20API/utils)**
 
-
+---
 
 ### [Injury Project](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/Injury%20Project)
 **Duration**: 7 months  
@@ -49,7 +49,7 @@ Multiple angles of analysis were attempted in both stages and while results were
 - **[2nd Stage Presentation](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Injury%20Project/Second%20Stage/Injury%20Exploration%20Presentation.pdf)**
 - **[2nd Stage Analysis Code](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Injury%20Project/Second%20Stage/Injury%20Code.Rmd)**
 
-
+---
 
 ### [Baseball Dashboard Project](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/Baseball%20Dashboard)
 **Duration**: 2 months  
@@ -61,7 +61,7 @@ The dashboard's capabilities allow coaches to easily select different pitchers a
 
 - **[Screenshot of Dashboard](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Baseball%20Dashboard/Baseball%20Dashboard.png)**
 
-
+---
 
 ### [Track & XC Project](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/Track%20%26%20XC%20Project)
 **Duration**: 3 months  
@@ -74,7 +74,7 @@ To answer this question, I implemented a hierarchical statistical model to bette
 - **[Presentation](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Track%20%26%20XC%20Project/Track%20%26%20XC%20Presentation.pdf)**
 - **[Code](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Track%20%26%20XC%20Project/Track%20%26%20XC%20Code.Rmd)**
 
-
+---
 
 ### [Basketball End-of-Season Project](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/Basketball%20Project)
 **Duration**: 1 month  
@@ -84,7 +84,7 @@ To answer this question, I implemented a hierarchical statistical model to bette
 
 - **[Charting Code](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Basketball%20Project/End%20of%20Season%20Report%20Code.Rmd)**
 
-
+---
 
 ### [Football Height Project](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/Football%20Projects)
 **Duration**: 1 week  
