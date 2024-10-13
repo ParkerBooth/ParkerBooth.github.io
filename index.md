@@ -49,6 +49,8 @@ Multiple angles of analysis were attempted in both stages and while results were
 - **[2nd Stage Presentation](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Injury%20Project/Second%20Stage/Injury%20Exploration%20Presentation.pdf)**
 - **[2nd Stage Analysis Code](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Injury%20Project/Second%20Stage/Injury%20Code.Rmd)**
 
+<img src="/images/Injury Horizontal Bars.png"/> 
+
 ---
 
 ### [Baseball Dashboard Project](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/Baseball%20Dashboard)
@@ -60,6 +62,8 @@ Multiple angles of analysis were attempted in both stages and while results were
 The dashboard's capabilities allow coaches to easily select different pitchers and specific game dates to review individual performance metrics. The second tab of the dashboard has a slider that allows for the ability to specify a time frame for summarizing pitching statistics. Coaches can print this dashboard to show players at practice about their performance in the previous games or their overall season-long performances.
 
 - **[Screenshot of Dashboard](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Baseball%20Dashboard/Baseball%20Dashboard.png)**
+
+<img src="/images/Baseball Dashboard.png"/> 
 
 ---
 
@@ -73,6 +77,8 @@ To answer this question, I implemented a hierarchical statistical model to bette
 
 - **[Presentation](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Track%20%26%20XC%20Project/Track%20%26%20XC%20Presentation.pdf)**
 - **[Code](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Track%20%26%20XC%20Project/Track%20%26%20XC%20Code.Rmd)**
+
+<img src="/images/Radar Chart XC Track.png"/> 
 
 ---
 
