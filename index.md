@@ -9,7 +9,7 @@
 
 Two types of Bayesian models were run in this analysis using STAN: General Linear Regression Models and Logistic Models. These models were run using the stan package in R, allowing for a deep Bayesian analysis of how movements influenced match outcomes and statistics. This project deepened my experience with advanced statistical modeling and reinforced the value of data analysis in optimizing athlete performance.
 
-"/images/autocorrelation kill perc.png"
+<img src="/images/autocorrelation kill perc.png"/>
 
 - **[Presentation](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Presentation.pdf)**
 - **[Project Paper](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Project%20Paper.pdf)**
