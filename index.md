@@ -102,9 +102,7 @@ To answer this question, I implemented a hierarchical statistical model to bette
 
 ---
 
-## Sports Science/Analytics Projects
-
-### [Economics Projects](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Economics%20Studies) 
+## [Economics Projects](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Economics%20Studies) 
 
 ---
 
