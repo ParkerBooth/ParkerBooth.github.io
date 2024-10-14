@@ -102,6 +102,12 @@ To answer this question, I implemented a hierarchical statistical model to bette
 
 ## [Economics Projects](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Economics%20Studies) 
 
+### [Creativity Study](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Economics%20Studies/Creativity%20Study)
+
+### [Mountain West Housing Prices](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Economics%20Studies/Mountain%20West%20Housing%20Prices%20Study)
+
+### [Smoking Excise Tax](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Economics%20Studies/Smoking%20Excise%20Tax%20Project)
+
 ---
 
 ## Education
