@@ -25,7 +25,7 @@ Two types of Bayesian models were run in this analysis using STAN: General Linea
 
 **Description**: This project aimed to build a consistent API that runs every five minutes to automatically update ForceDeck data files utilized by an entire athletics department. The API was implemented in R-Studio and was designed to check for new data and then update the sports-specific data frames to keep all data current. 
 
-I worked with the Vald API documentation and resource files. A substantial portion of time was spent on researching how to code an API and how to validate API credentials within R. The other portion of time was spent formatting and specifying the incoming data so the formatting was consistent with the existing data formats.
+This project was completed using the Vald API documentation and resource files. A substantial portion of time was spent on researching how to code an API and how to validate API credentials within R. The other portion of time was spent formatting and specifying the incoming data so the formatting was consistent with the existing data formats.
 
 - **[Main](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/ForceDecks%20API/FD%20main.R)**
 - **[Utils](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/ForceDecks%20API/utils)**
@@ -40,7 +40,7 @@ I worked with the Vald API documentation and resource files. A substantial porti
 
 The first stage focused on exploratory and descriptive statistics, mainly utilizing z-score and data summarization techniques. The project's second stage continued this exploratory analysis and focused on sports with higher observation counts to slim down the data set and ensure robust results. Statistical methods such as a Cox proportional hazards model were introduced to look for predictive results.
 
-Multiple angles of analysis were attempted in both stages and while results were not fully conclusive, information that was valuable to the department was still gained. 
+Multiple angles of analysis were attempted in both stages, and while results were not fully conclusive, information valuable to the department was still gained. 
 
 - **[Poster Presentation](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Injury%20Project/Second%20Stage/Symposium%20Poster%20Presentation.pdf)**
 - **[1st Stage Presentation](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Injury%20Project/First%20Stage/Injury%20Exploration%20Presentation.pdf)**
@@ -71,7 +71,7 @@ The dashboard's capabilities allow coaches to easily select different pitchers a
 
 **Description**: The project investigated the differences between the Track and Cross Country (XC) teams, who do not train together but will compete in similar or even the same events. This analysis focused on ForceDeck data and race times to see which metrics predicted performance for each team's best runners and how those differed.
 
-To answer this question, I implemented a hierarchical statistical model to better understand team differences.  The project included exploratory analysis, distance comparisons, and team comparisons to uncover key insights into performance metrics.
+To answer this question, I implemented a hierarchical statistical model to better understand team differences.  The project included exploratory analysis, distance comparisons, and team comparisons to uncover key insights into performance metrics. This project showcases my visualization skills using the ggplot2 package in R.
 
 - **[Presentation](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Track%20%26%20XC%20Project/Track%20%26%20XC%20Presentation.pdf)**
 - **[Code](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Track%20%26%20XC%20Project/Track%20%26%20XC%20Code.Rmd)**
@@ -84,7 +84,7 @@ To answer this question, I implemented a hierarchical statistical model to bette
 **Duration**: 1 month  
 **Program**: R
 
-**Description**: This project aimed to provide an end-of-season analysis of the basketball team. This analysis used Strive in-season data. The main goals of this project were to provide meaningful visualizations that could be aggregated and report on season-long trends. Trends were analyzed by position and individually by player. This project showcases my visualization skills using the ggplot2 package in R. 
+**Description**: This project aimed to provide an end-of-season analysis of the basketball team. This analysis used Strive in-season data. The main goals of this project were to provide meaningful visualizations that could be aggregated and report on season-long trends. Trends were analyzed by position and individually by player. 
 
 - **[Charting Code](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Basketball%20Project/End%20of%20Season%20Report%20Code.Rmd)**
 
