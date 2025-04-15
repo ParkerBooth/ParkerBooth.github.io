@@ -113,7 +113,7 @@ To answer this question, I implemented a hierarchical statistical model to bette
 ## Education
 **University of Utah:**
 Master of Science - MS, Statistics, Econometrics Specialization
-Jan 2024 - Dec 2025
+Jan 2024 - May 2025
 
 **University of Utah:**
 Bachelor's degree, Quantitative Analysis of Markets & Organizations, Finance Emphasis
