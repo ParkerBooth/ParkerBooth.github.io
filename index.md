@@ -1,19 +1,20 @@
 ## [Sports Science/Analytics Projects](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects) 
 
 ---
-### [Volleyball Project](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/Volleyball%20Project)
-**Duration**: 4 months  
+### [Master's Project](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Master's%20Project)
+***Receiving a top-five pick in the NBA lottery leads to success***
+**Duration**: 5 months  
 **Program**: R
 
-**Description**: This project focused on finding the statistics and movements essential to winning volleyball games. The data used was two seasons of historical catapult data and matching game data from those two seasons. By collecting and analyzing this data, the goal was to provide answers to the questions about what movements within a game and practice drove wins for the volleyball team.
+**Description**: This project was my final Master's project in the program. I spent 5 months researching NBA draft data to see if a top-five pick's effect in the NBA correlated with success. My goal was to find a clear correlation between winning and being a high draft pick, and when to expect this winning to happen.
 
-Two types of Bayesian models were run in this analysis using STAN: General Linear Regression Models and Logistic Models. These models were run using the stan package in R, allowing for a deep Bayesian analysis of how movements influenced match outcomes and statistics. This project deepened my experience with advanced statistical modeling and reinforced the value of data analysis in optimizing athlete performance.
+I utilized OLS regressions, negative binomial regressions, and event studies as the statistical frameworks for this analysis. These models predicted that just by having a top-five pick, the team is expected to increase in winning in years 3-6. Playoff and regular season wins become statistically different from the rookie season wins in most of these years.
 
-- **[Presentation](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Presentation.pdf)**
-- **[Project Paper](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Project%20Paper.pdf)**
+- **[Presentation](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Master's%20Project/Final%20Project%20NBA%20Presentation.pdf)**
+- **[Project Paper](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Master's%20Project/Master's%20Project%20Paper.pdf)**
 
 <img src="/images/Event Study NBA.png"/> 
-<img src="/images/predictive values.png"/>
+<img src="/images/Comparison of Top Five to Non Lottery Picks.png"/>
 
 ---
 ### [Volleyball Project](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/Volleyball%20Project)
