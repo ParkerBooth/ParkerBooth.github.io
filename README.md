@@ -1,6 +1,6 @@
 # Parker Booth - Sports Analyst Portfolio
 ## About
-Hello, I am Parker Booth! I have an analytical background in Quantitative Analysis, Business Analytics, and Econometrics. Currently, I am studying in the Master of Statistics program at the University of Utah, with plans to graduate in the Spring of 2025. I am passionate about using my acquired data analysis skills in the sports industry to help athletes reach their highest potential.
+Hello, I am Parker Booth! I have an analytical background in statistics, quantitative analysis, business analytics, and econometrics. I am a Master's of statistics graduate from the University of Utah, and also have a Bachelor's degree in quantitative analysis of markets and organizations. I am passionate about using my acquired data analysis skills in the sports industry to help athletes reach their highest potential.
 
 Throughout my studies, I have honed my analytical skills using economic data through various projects with federal economic data. My primary tools for these projects were R programming and Stata. 
 
