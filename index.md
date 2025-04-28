@@ -11,6 +11,21 @@ Two types of Bayesian models were run in this analysis using STAN: General Linea
 
 - **[Presentation](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Presentation.pdf)**
 - **[Project Paper](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Project%20Paper.pdf)**
+
+<img src="/images/Event Study NBA.png"/> 
+<img src="/images/predictive values.png"/>
+
+---
+### [Volleyball Project](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/Volleyball%20Project)
+**Duration**: 4 months  
+**Program**: R
+
+**Description**: This project focused on finding the statistics and movements essential to winning volleyball games. The data used was two seasons of historical catapult data and matching game data from those two seasons. By collecting and analyzing this data, the goal was to provide answers to the questions about what movements within a game and practice drove wins for the volleyball team.
+
+Two types of Bayesian models were run in this analysis using STAN: General Linear Regression Models and Logistic Models. These models were run using the stan package in R, allowing for a deep Bayesian analysis of how movements influenced match outcomes and statistics. This project deepened my experience with advanced statistical modeling and reinforced the value of data analysis in optimizing athlete performance.
+
+- **[Presentation](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Presentation.pdf)**
+- **[Project Paper](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Project%20Paper.pdf)**
 - **[Data Manipulation Code](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Portfolio%20File.Rmd)**
 - **[Stan Code](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/blob/main/Sports%20Science%20Projects/Volleyball%20Project/Volleyball%20Stan.R)**
 
