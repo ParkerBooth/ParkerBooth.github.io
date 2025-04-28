@@ -19,6 +19,18 @@ Two types of Bayesian models were run in this analysis using STAN: General Linea
 
 ---
 
+### [Football Metrics Dashboard](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/Football%20Projects)
+**Duration**: 2 months  
+**Program**: Power BI
+
+**Description**: This project aimed to provide a dashboard of testing metrics that is easily accessible to coaches. The goal was to combine all of the metrics that Football values and showcase them in a one-stop shop. 
+
+The dashboard's capabilities allow coaches to select different players and dates to review individual metrics easily. 
+
+<img src="/images/Football Metrics Dashboard.png"/> 
+
+---
+
 ### [ForceDecks API](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Sports%20Science%20Projects/ForceDecks%20API)
 **Duration**: 3 months  
 **Program**: R
