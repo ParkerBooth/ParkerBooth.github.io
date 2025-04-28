@@ -3,6 +3,7 @@
 ---
 ### [Master's Project](https://github.com/ParkerBooth/Sports-Analyst-Portfolio/tree/main/Master's%20Project)
 ***Receiving a top-five pick in the NBA lottery leads to success***
+
 **Duration**: 5 months  
 **Program**: R
 
