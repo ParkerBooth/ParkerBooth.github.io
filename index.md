@@ -25,7 +25,7 @@ Two types of Bayesian models were run in this analysis using STAN: General Linea
 
 **Description**: This project aimed to provide a dashboard of testing metrics that is easily accessible to coaches. The goal was to combine all of the metrics that Football values and showcase them in a one-stop shop. 
 
-The dashboard's capabilities allow coaches to select different players and dates to review individual metrics easily. 
+The dashboard's capabilities allow coaches to select different players and dates to review individual metrics easily. The metrics covered in this dashboard come from Catapult, Vald ForceDecks, Body Weight, and Hydration. These metrics are all shown as z-scores to compare players to their prior 30-day averages for practice and load preparations. 
 
 <img src="/images/Football Metrics Dashboard.png"/> 
 
